@@ -2,4 +2,3 @@
 
 BikeItours::CLI.new.call
 
-puts "Ciao bella bicicletta!"
