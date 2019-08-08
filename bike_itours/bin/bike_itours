@@ -1,4 +1,5 @@
 #!/usr/bin/env ruby
 
+BikeItours::CLI.new.call
 
 puts "Ciao bella bicicletta!"
